@@ -1,7 +1,7 @@
-# Research Dataset for the paper: Towards a developer-centric code understandability metric
+# Research Dataset for developing data-driven developer-centric software complexity metrics
 
 ## Overview
-This repository contains datasets and preprocessing steps used in our research on analyzing EEG and eye tracking data for code comprehension tasks. We conducted experiments with 20 participants, each performing 4 code tasks chosen randomly in 4 runs. The datasets are structured for reproducibility and further analysis.
+This repository contains datasets and preprocessing steps used in our research on analyzing EEG and eye tracking data for code comprehension tasks. We conducted experiments with 36 participants, each performing 4 code tasks chosen randomly in 4 runs. The datasets are structured for reproducibility and further analysis.
 
 ## Datasets
 We have three important datasets in this experiment:
@@ -11,7 +11,7 @@ We have three important datasets in this experiment:
 
 ### EEG Data
 **Raw Data:**
-- 20 participants
+- 36 participants
 - 20 `.cnt` files (named si_j, where i=1:20 for participants and j=1:4 for runs)
 
 **Preprocessing:**
@@ -34,16 +34,16 @@ We have three important datasets in this experiment:
 
 ### Eye Tracking Data
 **Raw Data:**
-- 20 participants
-- 20 `.mat` files
+- 36 participants
+- 36 `.mat` files
 
 **Preprocessing:**
 - Filtering invalid data points
 - Calibration against code task images
 
 **Final Structure:**
-- `eye_data.mat` includes 20 structs for 20 participants
-- Each struct named `si_tj` (i=1:20 for participants, j=1:4 for tasks)
+- `eye_data.mat` includes 36 structs for 36 participants
+- Each struct named `si_tj` (i=1:36 for participants, j=1:4 for tasks)
 - Fields:
   - `eye_data.code_time` : Time when participants read the code task
   - `eye_data.gaze_x` : Horizontal coordinates of eye gaze position
@@ -59,7 +59,7 @@ For the final model analysis, we tried 7 different models (2 linear and 5 non-li
 ## Data Access
 You can access all the data used in this research through the following Google Drive link:
 
-[Access the Data](https://drive.google.com/drive/folders/1tFoCChdtkplacf0LPb4Z0tkz94Zrcs9d)
+[Access the Data](https://drive.google.com/drive/folders/1tFoCChdtkplacf0LPb4Z0tkz94Zrcs9d) (to be updated)
 
 ## Usage
 1. **Download the datasets:**
