@@ -42,8 +42,8 @@ We have three important datasets in this experiment:
 - Calibration against code task images
 
 **Final Structure:**
-- `eye_data.mat` includes 36 structs for 35 participants
-- Each struct named `si_tj` (i=1:36 for participants, j=1:4 for tasks)
+- `eye_data.mat` includes 35 structs for 35 participants
+- Each struct named `si_tj` (i=1:35 for participants, j=1:4 for tasks)
 - Fields:
   - `eye_data.code_time` : Time when participants read the code task
   - `eye_data.gaze_x` : Horizontal coordinates of eye gaze position
