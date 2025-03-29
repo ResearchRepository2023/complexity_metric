@@ -9,6 +9,14 @@ We have three important datasets in this experiment:
 2. **Eye Tracking Data**
 3. **Code Regions**
 
+## License
+
+This repository contains both datasets and software components.
+
+- **Datasets:** Licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0). You are free to share and adapt the data, provided proper attribution is given.
+
+- **Software:** Licensed under the MIT License. See the LICENSE file for details.
+
 ### EEG Data
 **Raw Data:**
 - 35 participants
