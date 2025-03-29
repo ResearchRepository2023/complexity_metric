@@ -62,9 +62,9 @@ This survey was distributed to volunteers/participants to assess their experienc
 [Click here to view the survey](https://docs.google.com/forms/d/1GcqNIBNRVv6Wu_vaevWs1PNF_P1zYNJP1gT2jDstBTE/edit)
 
 ## Data Access
-You can access all the data used in this research through the following Google Drive link:
+You can access all the data used in this research through the following Zenodo  link:
 
-[Access the Data]([https://drive.google.com/drive/folders/1tFoCChdtkplacf0LPb4Z0tkz94Zrcs9d](https://zenodo.org/records/15106502?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6ImQyMDIwZjNlLTllZmYtNDcyZC1iZDNiLWU5NDg3ODgyMjFiZSIsImRhdGEiOnt9LCJyYW5kb20iOiJiMTZlMjEzMzFkZjYyY2Q2YWE3MWNiMWU2NDhjNzhhMyJ9.NZZdkoi_MphzIehf3gricOUBnFLz04vUkNd-230n6lQLGh12hWfTeIpjtg3UzNjT_jLejPVQMv4wE_JAZvN3wA)) (to be updated)
+[Access the Data]([https://zenodo.org/records/15106502?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6ImQyMDIwZjNlLTllZmYtNDcyZC1iZDNiLWU5NDg3ODgyMjFiZSIsImRhdGEiOnt9LCJyYW5kb20iOiJiMTZlMjEzMzFkZjYyY2Q2YWE3MWNiMWU2NDhjNzhhMyJ9.NZZdkoi_MphzIehf3gricOUBnFLz04vUkNd-230n6lQLGh12hWfTeIpjtg3UzNjT_jLejPVQMv4wE_JAZvN3wA]) (to be updated)
 
 ## Usage
 1. **Download the datasets:**
